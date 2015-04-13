@@ -1,0 +1,17 @@
+languageCode = "en-us"
+title = "RexFlect"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://rexflect.space/"
+canonifyurls = true
+theme = "aglaus"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Rex's Reflection Space"
+  author = "Rex Zeng"
